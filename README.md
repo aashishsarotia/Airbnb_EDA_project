@@ -1,5 +1,8 @@
 # Airbnb New York EDA Project
 
+![New-York-City-Brooklyn-Bridge-Panorama-Juergen-Roth-2](https://github.com/user-attachments/assets/6e0c1221-5dd5-457d-ba1b-d95bb47d9672)
+
+
 ### Project Overview
 This project involves performing Exploratory Data Analysis (EDA) on a dataset of Airbnb listings in New York for the year 2024. The goal is to derive meaningful insights regarding pricing, availability, host listings, and neighborhood trends to better understand the Airbnb market. This analysis can help property owners, guests, and real estate professionals make data-driven decisions.
 
